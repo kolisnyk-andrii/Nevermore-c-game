@@ -1,0 +1,8 @@
+NPC(ZERALD)
+X
+3
+9
+NPC(CERALD)
+C
+8
+5

@@ -1,0 +1,4 @@
+NPC(GERALD)
+N
+36
+3

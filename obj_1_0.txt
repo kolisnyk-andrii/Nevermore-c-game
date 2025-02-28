@@ -1,0 +1,16 @@
+it's a plaque!
+Y
+8
+3
+it's a plaque!
+U
+15
+3
+it's a plaque!
+L
+10
+6
+it's a CHEST!
+@
+21
+1

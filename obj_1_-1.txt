@@ -1,0 +1,29 @@
+it's a plaque!
+Q
+12
+5
+it's a CHEST!
+@
+8
+2
+RIP1
++
+17
+2
+RIP2
++
+19
+5
+RIP3
++
+10
+7
+RIP4
++
+4
+6
+RIP5
++
+6
+4
+
